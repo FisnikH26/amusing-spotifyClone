@@ -1,3 +1,5 @@
-# Amusing (Spotify Clone)
+# Amusing -(Spotify Clone)-
 
-## Made with _Vue Js_
+#### Made with  _Vue js_   
+
+ 
